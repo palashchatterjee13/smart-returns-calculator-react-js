@@ -1,4 +1,4 @@
-# Smart Returns Calculator Documentation
+# Smart Returns Calculator
 
 ## Overview
 
