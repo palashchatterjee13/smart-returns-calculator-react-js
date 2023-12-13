@@ -4,6 +4,8 @@
 
 The Smart Returns Calculator is a versatile tool designed to calculate compound interest for a given principal amount and time period. It supports both fixed and variable interest rates, accommodating positive and negative rates.
 
+View live demo (production build) at - https://palashchatterjee13.github.io/smart-returns-calculator-react-js/build/
+
 ## Features
 
 1. **Compound Interest Calculation:**
