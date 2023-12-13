@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart-returns-calculator-react-js/build/static/css/main.99b30218.css",
+    "main.js": "/smart-returns-calculator-react-js/build/static/js/main.1e18b6b2.js",
+    "index.html": "/smart-returns-calculator-react-js/build/index.html",
+    "main.99b30218.css.map": "/smart-returns-calculator-react-js/build/static/css/main.99b30218.css.map",
+    "main.1e18b6b2.js.map": "/smart-returns-calculator-react-js/build/static/js/main.1e18b6b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b30218.css",
+    "static/js/main.1e18b6b2.js"
+  ]
+}
